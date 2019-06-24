@@ -358,10 +358,10 @@ pinkie@^2.0.0:
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
-prisma2@^0.0.57:
-  version "0.0.57"
-  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-0.0.57.tgz#67a0ad7d6e5c7b0f6465e0568ed3b1f6737a445f"
-  integrity sha512-w4HkbD2db2Esu4UNtpbU6rasVliwMwzbOLuT+MO9yw8JdtnUf6rz9tLhFJaTFIIbxLPxTIlQvzzGB9i5+6lUUw==
+prisma2@^0.0.92:
+  version "0.0.92"
+  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-0.0.92.tgz#85e909aff996cb35670136d110a04bdd4ca640e6"
+  integrity sha512-70OBfuPp5cZ4vpUOUb0/3JbpO30d6xhAK2QoH8XnYwBhahLREG/CGQ7qXF2ywYmv0vhq2nONOzwB0GpbS8k5eA==
 
 read-pkg-up@^1.0.1:
   version "1.0.1"
