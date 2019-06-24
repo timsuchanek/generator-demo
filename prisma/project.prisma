@@ -9,7 +9,7 @@ generator photon {
 }
 
 generator java {
-  provider   = "./java-generator.js"
+  provider   = "generator/index.js"
   output     = "some/path"
   someOption = "hello"
 }
